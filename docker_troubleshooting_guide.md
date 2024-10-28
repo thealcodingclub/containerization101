@@ -56,4 +56,4 @@ Welcome to the Docker Troubleshooting Guide! If you encounter issues during the 
 - [Docker Community Forums](https://forums.docker.com/)
 - [Docker GitHub Issues](https://github.com/docker/for-win/issues)
 
-If you continue to experience issues, please reach out to our support team at [workshop-support-email].
+If you continue to experience issues, please reach out to our support team at alcoding@pes.edu
